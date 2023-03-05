@@ -5,7 +5,7 @@ function Projects()
     return(
         <>
          <div class="container-fluid p-0">
-        <section class="resume-section" id="skills">
+        <section class="resume-section" id="projects">
           <div class="resume-section-content">
             <h2 class="mb-4">Projects</h2>
            
