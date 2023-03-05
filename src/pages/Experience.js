@@ -1,6 +1,5 @@
 import React from "react";
-import Header from "../components/Header";
-import Projects from "./Projects";
+
 
 function Experience() {
   return (
@@ -12,7 +11,7 @@ function Experience() {
             <h3 className="mb-1">Cognizant</h3>
             <div class="subheading ">PROGRAMMER TRAINEE</div>
             <div class="subheading-2 ">26 July 2022 - Present</div>
-            {/* <Projects></Projects> */}
+            
           </div>
         </section>
         <hr class="m-0" />
