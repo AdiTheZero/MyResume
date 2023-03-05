@@ -10,10 +10,8 @@ const Interest = () => {
           <div class="resume-section-content">
             <h2 class="mb-5">Interests</h2>
             <p>
-              Apart from being a web developer, I enjoy most of my time being
-              outdoors. In the winter, I am an avid skier and novice ice
-              climber. During the warmer months here in Colorado, I enjoy
-              mountain biking, free climbing, and kayaking.
+            Apart from being a web developer, I enjoy most of my time being
+            outdoors and I love dancing.
             </p>
             <p class="mb-0">
               When forced indoors, I follow a number of sci-fi and fantasy genre
@@ -23,7 +21,7 @@ const Interest = () => {
             </p>
           </div>
         </section>
-        <hr class="m-0" />
+        {/* <hr class="m-0" /> */}
       </div>
     </>
   );
